@@ -1,4 +1,10 @@
-![ACES Logo](https://github.com/AcademySoftwareFoundation/artwork/blob/main/projects/aces/horizontal/color/aces-horizontal-color.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/aces-full-color-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/aces-full-color-light.png">
+  <img alt="ACES Logo" src="./images/aces-full-color-light.png">
+</picture>
+
+---
 
 The Academy Color Encoding System (ACES) aims to provide a standardized, end-to-end framework for achieving accurate, predictable color reproduction across modern imaging workflows. ACES encodings and transforms are widely adopted across the industry, helping ensure consistent color from capture through post-production, delivery, and long-term archiving.
 
