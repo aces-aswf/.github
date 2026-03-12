@@ -26,3 +26,20 @@ The ACES-ASWF Github organization hosts the official ACES reference transforms, 
   - Forum: <https://community.acescentral.com>
 - Slack workspace: <https://aswf.slack.com>
   - New users can join via <http://slack.aswf.io>
+
+## ACES Project Mission
+
+The Academy Color Encoding System (ACES) aims to provide a standardized,
+device-independent, and future-proof system for managing color throughout a
+production pipeline.
+
+ACES aims to:
+
+- define and maintain open, standardized encodings and transforms for color
+  management
+- provide a robust framework to support production, post-production,
+  distribution, and archiving
+- enable consistent color reproduction from image capture through editing, VFX,
+  grading, mastering, and archiving, regardless of hardware or workflow
+- support long-term archiving of motion picture assets
+- foster a healthy and active user community
