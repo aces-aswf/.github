@@ -43,3 +43,9 @@ ACES aims to:
   grading, mastering, and archiving, regardless of hardware or workflow
 - support long-term archiving of motion picture assets
 - foster a healthy and active user community
+
+## Contributing
+
+ACES depends on community participation in order to succeed and welcomes contributions from developers, manufacturers, and end users alike.
+
+Please see [Contributing Guidelines](https://github.com/aces-aswf/.github/blob/main/CONTRIBUTING.md) for more details.
