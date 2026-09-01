@@ -48,8 +48,8 @@ See the [TSC meeting notes archive](https://lf-aswf.atlassian.net/wiki/external/
 
 ### TSC Members
 
-| Member | Affiliation |
-| --- | --- |
+| Name | Affiliation |
+| :-- | :-- |
 | Annie Chang | NBC Universal |
 | Chris Clark | Netflix, Inc. |
 | J. Schulte | Industrial Light & Magic |
@@ -58,6 +58,7 @@ See the [TSC meeting notes archive](https://lf-aswf.atlassian.net/wiki/external/
 | Sean Cooper | Skydance Animation, LLC |
 
 ### TSC Emeritus
-| Member | Affiliation |
-| --- | --- |
+
+| Name | Affiliation |
+| :-- | :-- |
 | Bill Baggelaar | Independent |
