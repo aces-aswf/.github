@@ -51,9 +51,13 @@ See the [TSC meeting notes archive](https://lf-aswf.atlassian.net/wiki/external/
 | Member | Affiliation |
 | --- | --- |
 | Annie Chang | NBC Universal |
-| Bill Baggelaar | Independent |
 | Chris Clark | Netflix, Inc. |
 | J. Schulte | Industrial Light & Magic |
 | Nick Shaw | Independent |
 | Scott Dyer (Chair) | Academy of Motion Picture Arts and Sciences |
 | Sean Cooper | Skydance Animation, LLC |
+
+### TSC Emeritus
+| Member | Affiliation |
+| --- | --- |
+| Bill Baggelaar | Independent |
